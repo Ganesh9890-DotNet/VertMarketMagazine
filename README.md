@@ -1,0 +1,1 @@
+# VertMarketMagazine
