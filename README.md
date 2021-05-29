@@ -1,5 +1,7 @@
 # VertMarketMagazine
 
+Unzip the file and follows:
+
 1. Open the solution in Visual Studio with version above 2015
 2. Build the solution
 3. Run the solution by clicking on Ctrl + F5
